@@ -28,3 +28,6 @@ Next Steps:
 
 Exploring deployment options.
 Welcoming feedback and insights from the data science community.
+
+I Kept the code and dataset used for churn prediction and also sharing my collab link
+

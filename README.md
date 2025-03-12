@@ -14,9 +14,7 @@ Training the model on historical data.
 Evaluation and fine-tuning for optimal performance.
 Results:
 
-Achieved [insert your accuracy score] accuracy on the test set.
-Confusion Matrix and Classification Report provide detailed insights into model performance.
-Challenges:
+
 
 Dealing with non-numeric features and categorical variables.
 Optimizing hyperparameters for improved predictions.
